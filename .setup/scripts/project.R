@@ -15,7 +15,7 @@
 #' | `license`        | Options are `"mit"`, `"gpl3"`, or `NULL`            |
 #'
 
-project <- "docker-manemotionmultipletimescales"
+project <- "docker-manctmedbookchapter"
 
 rproject_ver <- NULL
 
